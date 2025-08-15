@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Panuganty</h1>
+<h3 align="center">Computer Science Undergraduate Student from NIAT</h3>
 <h3 align="center">A passionate Software developer from India </h3>
 
 - 💬 Ask me about **Software**
